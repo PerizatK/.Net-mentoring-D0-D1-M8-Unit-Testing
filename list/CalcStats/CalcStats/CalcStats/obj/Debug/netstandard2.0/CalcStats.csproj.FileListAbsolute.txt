@@ -1,9 +1,0 @@
-C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M8-Unit-Testing\list\CalcStats\CalcStats\CalcStats\obj\Debug\netstandard2.0\CalcStats.csprojAssemblyReference.cache
-C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M8-Unit-Testing\list\CalcStats\CalcStats\CalcStats\obj\Debug\netstandard2.0\CalcStats.AssemblyInfoInputs.cache
-C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M8-Unit-Testing\list\CalcStats\CalcStats\CalcStats\obj\Debug\netstandard2.0\CalcStats.AssemblyInfo.cs
-C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M8-Unit-Testing\list\CalcStats\CalcStats\CalcStats\obj\Debug\netstandard2.0\CalcStats.csproj.CoreCompileInputs.cache
-C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M8-Unit-Testing\list\CalcStats\CalcStats\CalcStats\bin\Debug\netstandard2.0\CalcStats.deps.json
-C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M8-Unit-Testing\list\CalcStats\CalcStats\CalcStats\bin\Debug\netstandard2.0\CalcStats.dll
-C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M8-Unit-Testing\list\CalcStats\CalcStats\CalcStats\bin\Debug\netstandard2.0\CalcStats.pdb
-C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M8-Unit-Testing\list\CalcStats\CalcStats\CalcStats\obj\Debug\netstandard2.0\CalcStats.dll
-C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\.Net-mentoring-D0-D1-M8-Unit-Testing\list\CalcStats\CalcStats\CalcStats\obj\Debug\netstandard2.0\CalcStats.pdb
